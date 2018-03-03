@@ -21,3 +21,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /Java SAX XML Parser/nbproject/private/
+/Java SAX XML Parser/dist/
+/Java SAX XML Parser/build/
+/SAX-XML-Parser/build/
+/SAX-XML-Parser/dist/
+/SAX-XML-Parser/nbproject/private/
+/SaxXMLParser/nbproject/private/
+/SaxXMLParser/dist/
+/SaxXMLParser/build/
